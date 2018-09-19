@@ -1,0 +1,1 @@
+see [https://docs.oracle.com/en/cloud/paas/app-container-cloud/dvcjv/creating-metadata-files.html](https://docs.oracle.com/en/cloud/paas/app-container-cloud/dvcjv/creating-metadata-files.html)
